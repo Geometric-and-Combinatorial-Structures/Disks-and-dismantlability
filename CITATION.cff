@@ -1,0 +1,41 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the paper and this repository."
+title: "Code and data for: A 1-dismantlable, collapsible, clique-divergent graph of minimum order"
+authors:
+  - family-names: Espinoza-Fierro
+    given-names: Jesús Francisco
+    affiliation: Universidad de Sonora
+    orcid: "https://orcid.org/0000-0001-5601-3634"
+  - family-names: Frías-Armenta
+    given-names: Martín Eduardo
+    affiliation: Universidad de Sonora
+    email: eduardo.frias@unison.mx
+    orcid: "https://orcid.org/0000-0002-7687-1270"
+  - family-names: Hernández Hernández
+    given-names: Héctor Alfredo
+    affiliation: Universidad de Sonora
+    orcid: "https://orcid.org/0000-0002-4046-4841"
+version: 1.1.1
+date-released: 2026-11-13
+doi: 10.5281/zenodo.24201088
+repository-code: "https://github.com/MartinEduardoFriasArmenta/clique-divergent-min-order"
+license: MIT
+keywords:
+  - clique graph
+  - iterated clique graphs
+  - dismantlable graph
+  - k-dismantlable graph
+  - Whitney triangulation
+  - disk conjecture
+preferred-citation:
+  type: manuscript
+  status: submitted
+  title: "A 1-dismantlable, collapsible, clique-divergent graph of minimum order"
+  authors:
+    - family-names: Espinoza-Fierro
+      given-names: Jesús Francisco
+    - family-names: Frías-Armenta
+      given-names: Martín Eduardo
+    - family-names: Hernández Hernández
+      given-names: Héctor Alfredo
+  year: 2026
